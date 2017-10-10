@@ -19,6 +19,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".FireMeasures"
+            android:label="Fire Safety Measures"></activity>
+        <activity
+            android:name=".PanFire"
+            android:label="Pan Fire / Grease Fire Measures"></activity>
+        <activity
+            android:name=".LpgLeakage"
+            android:label="LPG Gas Leakage Measures"></activity>
     </application>
 
 </manifest>

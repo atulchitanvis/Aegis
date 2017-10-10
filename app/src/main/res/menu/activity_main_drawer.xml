@@ -3,9 +3,9 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/fireSafety"
+            android:id="@+id/fire"
             android:icon="@mipmap/fire"
-            android:title="Fire" />
+            android:title="Fire"/>
         <item
             android:id="@+id/earthquake"
             android:icon="@mipmap/earthquake"
